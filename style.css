@@ -1,0 +1,18 @@
+.flag {
+    position: relative;
+    width: 900px;
+    height: 600px;
+    background: white;
+    border: solid black;
+
+}
+
+.flag > .red-sun {
+    position: absolute;
+    background-color: #bc002d;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    left: 310px;
+    top: 150px;
+}
